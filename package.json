@@ -1,0 +1,13 @@
+{
+  "name": "react-chatgpt-clone",
+  "version": "1.0.0",
+  "description": "A clone of the chatbot",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../web && npm install",
+    "start-all": "cd server && start npm start && cd ../web && start npm start"
+  },  
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
